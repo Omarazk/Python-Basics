@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @Omarazk
-- 👀 I’m interested in python...
-- 🌱 I’m currently learning machine learning ....
-- 📫 How to reach me omarazk.pasha@gmail.com ...
-
-<!---
-Omarazk/Omarazk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This is two Assignments about python basics and there are useful for beginners 
